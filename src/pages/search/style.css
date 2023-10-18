@@ -1,0 +1,547 @@
+#root{
+    padding:0px;
+    text-align: left;
+    display:inline;
+}
+body{
+    margin: 0px auto;
+    display:inline-block;
+    position:absolute;
+}
+
+
+.Search{
+position:relative;
+width: 1440px;
+height: 2680px;
+background-color:white;
+
+}
+.Navbar{
+    width: 1440px;
+height: 104px;
+display:inline-block;
+}
+
+/* ---------------------------Menu-------------------- */
+.Menu{
+    position:relative;
+width: 32px;
+height: 32px;
+top: 36px;
+left: 104px;
+
+}
+.rect1{
+    position:relative;
+    width: 21.33px;
+height: 2.67px;
+top: 6.67px;
+left: 5.33px;
+background: rgba(0, 0, 0, 1);
+display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.rect2{
+    position:relative;
+    width: 16px;
+    height: 2.67px;
+    top: 14.67px;
+    left: 5.33px;
+    background: rgba(0, 0, 0, 1);
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.rect3{
+    position:relative;
+    width: 10.67px;
+height: 2.67px;
+top: 22.67px;
+left: 5.33px;
+background: rgba(0, 0, 0, 1);
+display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+/* ------------------logo---------------------------------- */
+.logo{
+    position:relative;
+    width: 135px;
+height: 56px;
+left: 208px;
+}
+.Logo{
+    position:relative;
+    width: 135px;
+height: 26.6px;
+top: 11px
+}
+/* ---------------timkiem----------------- */
+.srcbar{
+ position:relative;
+width: 532px;
+height: 48px;
+bottom:55px;
+left: 415px;
+border-radius: 5px;
+background: rgba(246, 246, 246, 1);
+}
+.icon{
+    position:relative;
+    width: 24px;
+    height: 24px;
+    top:10px
+    
+}
+.icon1{
+position:relative;
+width: 196.99px;
+height: 22px;
+top:5px;
+font-size: 18px;
+background: rgba(246, 246, 246, 1);
+border-color: rgba(246, 246, 246, 1);
+border-style: none;
+}
+/* ---------------------Sign----------------------- */
+.sign{
+    position:relative;
+    width: 84px;
+    height: 24px;
+left: 1000px;
+bottom:90px;
+
+}
+.Signin{
+left: 50;
+position:relative;
+width: 24px;
+height: 24px;
+background: rgba(94, 94, 109, 1);
+}
+.text{
+    position:relative;
+    width: 70px;
+    height: 19px;
+bottom:49.5px;
+    left: 35px;
+font-size: 18px;
+color:black;
+}
+/*-----------Wishlist------------------- */
+.wishlist{
+    position:relative;
+    width: 94px;
+    height: 24px;
+  bottom:111px;
+    left: 1125px;
+}
+.Wishlist{
+    width: 24px;
+    height: 24px;
+    left: 35px;
+font-size: 18px;
+color:black;
+bottom:42.5px;
+    
+}
+.text1{
+    position:relative;
+    width: 62px;
+    height: 19px;
+    bottom: 49.5px;
+    left: 35px;
+font-size: 18px;
+color:black;
+}
+/* -----------------card------------------------- */
+.cart{
+    position:relative;
+    width: 75px;
+    height: 24px;
+    bottom:134px;
+    left: 1250px;
+    
+}
+.Cart{
+    width: 24px;
+    height: 24px;
+    
+}
+.text2{
+    position:relative;
+    width: 43px;
+    height: 19px;
+    bottom:49.5px;
+    left: 33px;
+    font-size: 18px;
+    color:black;
+    
+}
+/* -----------------bread--------------------- */
+div.Bread{
+    position:relative;
+    width: 1440px;
+height: 86px;
+bottom:170px;
+background: rgba(218, 249, 229, 1);
+}
+.home{
+    position:relative;
+    width: 178px;
+height: 22px;
+top: 32px;
+left: 104px;
+color: rgba(35, 121, 67, 1);
+font-size: 18px;
+line-height: 22px;
+text-align: left;
+}
+/* ---------------Filter-------------------- */
+div.Department{
+    position:relative;
+    width: 400px;
+    height: 879px;
+    bottom:120px;
+    left: 104px;
+    border-radius: 8px;
+    border-color: rgba(219, 219, 219, 1);
+    border-style: solid;
+}
+div.Filter{  
+width: 352px;
+height: 357px;
+}
+.de{
+position:relative;
+font-size: 30px;
+text-align: left;
+width: 153px;
+height: 29px;
+left:20px;
+color:black;
+bottom:10px;
+font-weight: bold;
+}
+.checkbox{
+    line-height: 2;
+    left:20px;
+    width: 185px;
+    height: 24px;
+    position:relative;
+    color:black;
+    font-size: 20px;
+}
+input[type="checkbox" i] {
+background-color: white;
+width:18px;
+height:18px;
+background: rgba(35, 121, 67, 1);
+}
+/* -------------line-8------------- */
+div.line-8{
+position:relative;
+ width: 352px;
+left: 24px;
+border: 1px solid rgba(225, 225, 225, 1)
+}
+
+div.Brands{
+    position:relative;
+font-size: 30px;
+text-align: left;
+width: 153px;
+height: 29px;
+left:20px;
+color:black;
+}
+.checkbox2{
+    line-height: 2;
+    position:relative;
+    color:black;
+    font-size: 20px;
+    bottom:10px;
+}
+div.line-81{
+    position:relative;
+ width: 352px;
+left: 24px;
+top :350px;
+border: 1px solid rgba(225, 225, 225, 1)
+}
+/* --------------------- Nutri----------------------- */
+div.Nutri{
+    position:relative;
+    font-size: 30px;
+    text-align: left;
+    left:20px;
+    color:black;
+    width: 103px;
+    height: 29px;
+    top:330px;
+
+
+}
+
+/* --------------------List------------------- */
+div.List{
+position:relative;
+width: 816px;
+height: 1737px;
+bottom:1000px;
+left: 550px;
+
+}
+div.Result{
+Width:816px;
+height:37px;
+
+}
+.resu{
+    position:relative;
+    font-size: 25px;
+    text-align: left;
+    left:20px;
+    width:471px;
+    height:37px;
+    bottom:22px;
+    color:black;
+    font-weight: bold;
+}
+/* -------------------------------------------- */
+div.Card{
+    position:relative;
+    width: 816px;
+    height: 1531px;
+    top:30px;
+
+}
+.Do-la{
+    color: rgb(28, 188, 87);
+    font-size: 18px;
+    width: 49px;
+    height:22px;
+}
+.name{
+    font-size: 16px;
+    color: rgba(41, 41, 46, 1);
+width: 192px;
+height:19px;
+ }
+ p.name{
+    position:relative;
+    bottom:14px;
+ }
+button {
+    width:192px;
+    height:48px;
+    color:white;
+    background-color: rgba(35, 121, 67, 1);
+    border-radius: 8px;
+
+}
+.ok{
+    width:100%;
+height: 457px;
+left:5px;
+position:relative;
+
+}
+div.listcard1{
+    display:inline-flex;
+    width:100%;
+    width:816px;
+    height:459px;
+}
+div.listcard2{
+    display:inline-flex;
+    width:100%;
+    width:816px;
+    height:459px;
+}
+div.listcard3{
+    display:inline-flex;
+    width:100%;
+    width:816px;
+    height:459px;
+}
+div.listcard4{
+    display:inline-flex;
+    width:100%;
+    width:816px;
+    height:459px;
+}
+/* ----------------------------------------------- */
+div.Pagi{
+    position:relative;
+    top :350px;
+    width: 320px;
+    height:32px;
+
+}
+.row{
+    width: 32px;
+height: 32px;
+border-radius: 8px;
+}
+button.bts.row{
+    position:relative;
+    left:160px;
+}
+button.bt5.row{
+    position:relative;
+    left:135px;
+}
+button.bt4.row{
+    position:relative;
+    left:110px;
+}button.bt3.row{
+    position:relative;
+    left:95px;
+}button.bt2.row{
+    position:relative;
+    left:70px;
+}button.bt1.row{
+    position:relative;
+    left:45px;
+}button.btt.row{
+    position:relative;
+    left:20px;
+}
+/* -----------------------footer------------------------ */
+div.footer{
+width: 1232px;
+height: 320px;
+bottom:600px;
+position:relative;
+left: 104px;
+}
+.Logo2{
+width: 134.4px;
+height: 56px;
+}
+div.Groud477{
+    width: 282px;
+    height: 104px; 
+}
+p.ph1{
+    color:black;
+    font-size: 16px;
+    position:relative;
+    left:50px;
+    top:5px;
+}
+img.a1a{
+    position:relative;
+    right:120px;
+    top:50px;
+}
+/* --------------------------------------------- */
+img.a2a{
+    position:relative;
+   left:15px;
+}
+p.ph2{
+    color:black;
+    font-size: 16px;
+    position:relative;
+  left: 50px;
+  bottom:45px;
+}
+img.a3a{
+    position:relative;
+   left:15px;
+   bottom:50px;
+}
+p.ph3{
+    color:black;
+    font-size: 16px;
+    position:relative;
+  left: 50px;
+  bottom:95px;
+}
+.gg{
+    width: 400px;
+height: 19px;
+color: rgba(114, 114, 114, 1);
+font-size: 16px;
+position:relative;
+top:40px;
+text-align: left;
+}
+/* ------------------------------- */
+div.Category{
+    width: 107px;
+height: 245px;
+position: relative;
+left: 400px;
+bottom: 110px;
+}
+p.c1c{
+    color:black;
+    font-size: 16px;
+    position:relative;
+    font-weight: bold;
+}
+p.c0c{
+    color:black;
+    font-size: 16px;
+    position:relative;
+}
+/* ---------------------------------------------------- */
+div.Company{
+    position:relative;
+    width: 128px;
+height: 175px;
+left:650px;
+bottom:373px;
+}
+p.b1b{
+    color:black;
+    font-size: 16px;
+    position:relative;
+    font-weight: bold;
+}
+p.b0b{
+    color:black;
+    font-size: 16px;
+    position:relative;
+}
+/* -------------------------------- */
+div.join{
+    width: 367px;
+height: 211px;
+position:relative;
+left:900px;
+bottom:561px;
+}
+p.Join{
+    color:black;
+    font-size: 16px;
+    position:relative;
+    font-weight: bold;
+}
+p.em{
+font-size: 16px;
+text-align: left;
+color:rgba(114, 114, 114, 1);
+}
+input.gml{
+    width: 367px;
+height: 56px;
+border-style: solid;
+border-radius: 8px;
+}
+button.re1{
+    position:relative;
+    top:35px;
+}

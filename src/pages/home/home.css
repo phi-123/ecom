@@ -1,0 +1,378 @@
+#root{
+    padding:0px;
+    text-align: left;
+    display:inline;
+}
+body{
+    margin: 0px auto;
+    display:inline-block;
+    position:absolute;
+}
+div.Home{
+    position:relative;
+    width: 1440px;
+    height: 2433px;
+    background-color:white;
+}
+/* ---------------------------------------phần thân ---------------- */
+p.che{
+    width: 216px;
+height: 58px;
+position:relative;
+font-size: 48px;
+font-weight:bold;
+color:black;
+left:89px;
+bottom:180px;
+}
+/* -----------------bling---------- */
+div.Biling{
+    width: 816px;
+    height: 997px;
+ position:relative;
+ 
+ left:90px;
+ bottom:145px;
+}
+p.Details1a3{
+    width: 206px;
+height: 37px;
+font-size: 31px;
+color:black;
+font-weight:bold;
+position:relative;
+bottom:10px;
+left:30px;
+}
+div.full{
+    width: 816px;
+height: 86px;
+display:inline-flex;
+position:relative;
+bottom:51px;
+}
+div.fist{
+    width: 400px;
+height: 86px;
+}
+div.last1{
+    width: 400px;
+    height: 86px;
+    position:relative;
+    left:16px;
+}
+div.last{
+    width: 400px;
+    height: 86px;
+    position:relative;
+    bottom:30px;
+
+}
+p.p1p{
+    font-size: 16px;
+    font-weight: bold;
+    color:black;
+}
+input.txt1{
+    width: 400px;
+    height: 51px;
+    border-style: solid;
+    border-radius: 8px;
+}
+input.txt2{
+    width: 816px;
+    height: 51px;
+    border-style: solid;
+    border-radius: 8px;
+}
+label.checkbox1{
+    line-height: 2;
+    width: 185px; 
+    height: 24px; 
+    position: relative;
+    color: black;
+    font-size: 20px;
+}
+/* ----------yourr---------- */
+div.yourr{
+    width: 400px;
+height: 464px;
+position: relative;
+left: 980px;
+bottom: 1500px;
+border-radius: 5px;
+border: 2px solid rgba(219, 219, 219, 1);
+}
+p.Details1a1{
+    width: 370px;
+    height: 37px;
+    font-size: 31px;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    bottom:40px;
+}
+div.a520{
+    width: 352px;
+    height: 96px;  
+}
+p.g1g{
+    width: 64px;
+height: 64px;
+background: rgba(226, 226, 234, 1);
+border-radius: 5px;
+position: relative;
+    left: 30px;
+}
+div.h11{
+    width: 145px;
+height: 49px;
+display:inline-grid;
+position:relative;
+left:115px;
+bottom:70px;
+
+}
+a.h22{
+color: rgba(17, 20, 45, 1);
+font-size: 16px;
+width: 145px;
+height: 19px;
+}
+a.h23{
+font-size: 16px;
+color: rgba(35, 121, 67, 1);
+width: 74px;
+height: 22px;
+}
+
+div.a519{
+    width: 352px;
+    height: 122px;
+    position:relative;
+    top:40px;
+}
+div.line-9{
+    position: relative;
+    width: 352px;
+    left: 24px;
+    border: 1px solid rgba(225, 225, 225, 1);
+    bottom:20px;
+}
+div.line-10{
+    position: relative;
+    width: 352px;
+    left: 24px;
+    border: 1px solid rgba(225, 225, 225, 1);
+    top:42px; 
+}
+div.ah1{
+    width: 352px;
+height: 22px;
+display:inline-flex;
+position:relative;
+left:30px;
+}
+div.ah2{
+    width: 352px;
+    height: 22px;
+    display:inline-flex;
+    position:relative;
+    top:20px;
+    left:30px;
+}
+div.ah3{
+    width: 352px;
+    height: 22px;
+    display:inline-flex;
+    position:relative;
+    left:30px;
+    top:60px;
+}
+a.h24{
+    font-size: 16px;
+color: rgba(41, 41, 46, 1);
+width:49px;
+height:22px;
+font-weight: bold;
+
+}
+a.h25{
+    width:303px;
+    height:22px;
+    color: rgba(114, 114, 114, 1);
+    font-size:16px;
+
+}
+button.btt5{
+    width: 352px;
+    height: 48px;
+    color: white;
+    background-color: rgba(35, 121, 67, 1);
+    border-radius: 8px;
+    position:relative;
+    top:80px;
+    left:30px;
+}
+/* ----------------------Addi------------- */
+div.Addi{
+    width: 816px;
+height: 316px;
+position:relative;
+left:90px;
+bottom:160px;
+}
+p.Details1{
+    width: 375px;
+    height: 37px;
+    font-size: 31px;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    bottom: 40px;
+}
+input.txt30{
+    width: 816px;
+height: 220px;
+border-radius: 8px;
+border-color: rgb(218 218 218);
+border-style:solid;
+position:relative;
+bottom:50px;
+
+}
+p.p4p{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    position:relative;
+    bottom:50px;
+}
+/* --------footer------------- */
+div.footer3{
+    width: 1232px;
+    height: 320px;
+ top:-420px;
+    position:relative;
+    left: 104px;
+    }
+    .Logo2{
+    width: 134.4px;
+    height: 56px;
+    }
+    div.Groud477{
+        width: 282px;
+        height: 104px; 
+    }
+    p.ph1{
+        color:black;
+        font-size: 16px;
+        position:relative;
+        left:50px;
+        top:5px;
+    }
+    img.a1a{
+        position:relative;
+        right:120px;
+        top:50px;
+    }
+    /* --------------------------------------------- */
+    img.a2a{
+        position:relative;
+       left:15px;
+    }
+    p.ph2{
+        color:black;
+        font-size: 16px;
+        position:relative;
+      left: 50px;
+      bottom:45px;
+    }
+    img.a3a{
+        position:relative;
+       left:15px;
+       bottom:50px;
+    }
+    p.ph3{
+        color:black;
+        font-size: 16px;
+        position:relative;
+      left: 50px;
+      bottom:95px;
+    }
+    .gg{
+        width: 400px;
+    height: 19px;
+    color: rgba(114, 114, 114, 1);
+    font-size: 16px;
+    position:relative;
+    top:40px;
+    text-align: left;
+    }
+    /* ------------------------------- */
+    div.Category{
+        width: 107px;
+    height: 245px;
+    position: relative;
+    left: 400px;
+    bottom: 110px;
+    }
+    p.c1c{
+        color:black;
+        font-size: 16px;
+        position:relative;
+        font-weight: bold;
+    }
+    p.c0c{
+        color:black;
+        font-size: 16px;
+        position:relative;
+    }
+    /* ---------------------------------------------------- */
+    div.Company{
+        position:relative;
+        width: 128px;
+    height: 175px;
+    left:650px;
+    bottom:373px;
+    }
+    p.b1b{
+        color:black;
+        font-size: 16px;
+        position:relative;
+        font-weight: bold;
+    }
+    p.b0b{
+        color:black;
+        font-size: 16px;
+        position:relative;
+    }
+    /* -------------------------------- */
+    div.join{
+        width: 367px;
+    height: 211px;
+    position:relative;
+    left:900px;
+    bottom:561px;
+    }
+    p.Join{
+        color:black;
+        font-size: 16px;
+        position:relative;
+        font-weight: bold;
+    }
+    p.em{
+    font-size: 16px;
+    text-align: left;
+    color:rgba(114, 114, 114, 1);
+    }
+    input.gml{
+        width: 367px;
+    height: 56px;
+    border-style: solid;
+    border-radius: 8px;
+    }
+    button.re1{
+        position:relative;
+        top:35px;
+    }

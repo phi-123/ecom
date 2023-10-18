@@ -1,0 +1,69 @@
+#root{
+    padding:0px;
+    text-align: left;
+    display:inline;
+}
+body{
+    margin: 0px auto;
+    display:inline-block;
+    position:absolute;
+}
+div.Category222{
+    position:relative;
+    width: 1440px;
+    height: 3217px;
+    background-color:white;
+    }
+div.Lista2q{
+    position: relative;
+    width: 816px;
+    height: 1737px;
+    bottom: 900px;
+    left: 550px;
+
+}
+div.Shop{
+    width:816px;
+    height:551px;
+    position:relative;
+    left:554px;
+    bottom:1025px;
+}
+p.By{
+    font-weight: bold;
+    font-size: 31px;
+text-align: left;
+color:black;
+width: 1232px;
+height: 37px;
+
+
+}
+div.a2aa{
+width: 100%;
+height: 189px;
+}
+p.tron{
+background: rgba(226, 226, 234, 1);;
+border-radius: 50%;
+height: 180px;
+width: 180px;
+}
+p.New{
+    font-weight: bold;
+    font-size: 20px;
+text-align: center;
+color:black;
+}
+div.abc{
+    width: 820px;
+height: 189px;
+display:inline-flex;
+}
+div.tyu{
+    width: 820px;
+    height: 189px;
+    display:inline-flex;
+    position:relative;
+    top:70px;
+}
