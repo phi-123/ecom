@@ -330,6 +330,7 @@ div.Card{
     font-size: 18px;
     width: 49px;
     height:22px;
+    font-weight: bold;
 }
 .name{
     font-size: 16px;

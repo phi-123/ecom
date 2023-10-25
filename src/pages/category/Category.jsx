@@ -111,7 +111,7 @@ function Category() {
         </div>
         <div className="Shop">
           <p className="By">Shop By Department</p>
-          <div className="abc">
+          <div className="abc2">
             <div className="a2aa">
               <p className="tron"></p>
               <p className="New">New Arrivals</p>
