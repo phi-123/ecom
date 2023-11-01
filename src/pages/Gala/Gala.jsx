@@ -10,10 +10,10 @@ function Gala() {
             <p className="rect3" />
           </div>
           <div className="logo">
-            <img src="/src/assets/image/logo2.jpg" alt="" className="Logo" />
+            <img src="/assets/image/logo2.jpg" alt="" className="Logo" />
           </div>
           <div className="srcbar">
-            <img className="icon" src="/src/assets/image/src.jpg" />
+            <img className="icon" src="/assets/image/src.jpg" />
             <input
               className="icon1"
               type="text"
