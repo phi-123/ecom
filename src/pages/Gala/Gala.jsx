@@ -61,37 +61,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.89</p>
               <p className="name">Cavendish Banana</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$1.29</p>
               <p className="name">Slicing Tomatoes</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.23</p>
               <p className="name">Chiitos Crunch Chocolate Chips</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$0.89</p>
               <p className="name">Goriorio Original Crackers</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$5.75</p>
               <p className="name">Yve Large Brown Eggs, 12 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.23</p>
               <p className="name">Jemima Waffle</p>
               <button type="reset">Add to Cart</button>
@@ -109,37 +109,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Sunmaid Frozz</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Alkaline Battery</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$1.89</p>
               <p className="name">Maskara Cakeps</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$9.21</p>
               <p className="name">Detergent Lotto</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Sunmaid Frozz</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Alkaline Battery</p>
               <button type="reset">Add to Cart</button>
@@ -157,7 +157,7 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -167,7 +167,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -177,7 +177,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -187,7 +187,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -197,7 +197,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -207,7 +207,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -240,37 +240,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Mushroom</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Cabbages</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$1.89</p>
               <p className="name">Mushroom</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$9.21</p>
               <p className="name">Cabbages</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Mushroom</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Cabbages</p>
               <button type="reset">Add to Cart</button>
@@ -287,37 +287,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Eggland White 4 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Yve Large Brown Eggs 12 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$1.89</p>
               <p className="name">Eggland White 4 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$9.21</p>
               <p className="name">Yve Large Brown Eggs 12 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Eggland White 4 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Yve Large Brown Eggs 12 Count</p>
               <button type="reset">Add to Cart</button>
