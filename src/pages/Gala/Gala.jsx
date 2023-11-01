@@ -21,15 +21,15 @@ function Gala() {
             />
           </div>
           <div className="sign">
-            <img className="Signin" src="/src/assets/image/sign.jpg" />
+            <img className="Signin" src="/assets/image/sign.jpg" />
             <p className="text">Sign In</p>
           </div>
           <div className="wishlist">
-            <img className="Wishlist" src="/src/assets/image/wish.jpg" />
+            <img className="Wishlist" src="/assets/image/wish.jpg" />
             <p className="text1">Wishlist</p>
           </div>
           <div className="cart">
-            <img className="Cart" src="/src/assets/image/cart.jpg" />
+            <img className="Cart" src="/assets/image/cart.jpg" />
             <p className="text2">$0.00</p>
           </div>
         </div>
@@ -61,37 +61,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$4.89</p>
               <p className="name">Cavendish Banana</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$1.29</p>
               <p className="name">Slicing Tomatoes</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$4.23</p>
               <p className="name">Chiitos Crunch Chocolate Chips</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$0.89</p>
               <p className="name">Goriorio Original Crackers</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$5.75</p>
               <p className="name">Yve Large Brown Eggs, 12 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$4.23</p>
               <p className="name">Jemima Waffle</p>
               <button type="reset">Add to Cart</button>
@@ -109,37 +109,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Sunmaid Frozz</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Alkaline Battery</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$1.89</p>
               <p className="name">Maskara Cakeps</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$9.21</p>
               <p className="name">Detergent Lotto</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Sunmaid Frozz</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Alkaline Battery</p>
               <button type="reset">Add to Cart</button>
@@ -157,7 +157,7 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -167,7 +167,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -177,7 +177,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -187,7 +187,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -197,7 +197,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -207,7 +207,7 @@ function Gala() {
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <div className="hqe1">
                 <p className="ga4">-15%</p>
                 <p className="ga5">$7.12</p>
@@ -230,7 +230,7 @@ function Gala() {
             <button className="dow4" type="reset">
               Apple Store
             </button>
-            <img src="/src/assets/image/Iphone.jpg" className="dow5" />
+            <img src="/assets/image/Iphone.jpg" className="dow5" />
           </div>
         </div>
         <div className="reandpe4">
@@ -240,37 +240,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Mushroom</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Cabbages</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$1.89</p>
               <p className="name">Mushroom</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$9.21</p>
               <p className="name">Cabbages</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Mushroom</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Cabbages</p>
               <button type="reset">Add to Cart</button>
@@ -287,37 +287,37 @@ function Gala() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Eggland White 4 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Yve Large Brown Eggs 12 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$1.89</p>
               <p className="name">Eggland White 4 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$9.21</p>
               <p className="name">Yve Large Brown Eggs 12 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.39</p>
               <p className="name">Eggland White 4 Count</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/src/assets/image/im.jpg"></img>
+              <img src="/assets/image/im.jpg"></img>
               <p className="Do-la">$2.11</p>
               <p className="name">Yve Large Brown Eggs 12 Count</p>
               <button type="reset">Add to Cart</button>
@@ -329,7 +329,7 @@ function Gala() {
         </div>
         <div className="Sop">
           <div className="hg1">
-            s<a className="hs2">Shop By Department</a>
+            <a className="hs2">Shop By Department</a>
             <a className="hs3">Show All Department</a>
           </div>
           <div className="Sop1">
@@ -358,12 +358,12 @@ function Gala() {
         </div>
         <div className="footer5">
           <div className="Groud477">
-            <img src="/src/assets/image/logo2.jpg" alt="" className="Logo1" />
-            <img className="a1a" src="/src/assets/image/dc.jpg"></img>
+            <img src="/assets/image/logo2.jpg" alt="" className="Logo1" />
+            <img className="a1a" src="/assets/image/dc.jpg"></img>
             <p className="ph1">221 B Santa Monica, Los Angeles</p>
-            <img className="a2a" src="/src/assets/image/te.jpg"></img>
+            <img className="a2a" src="/assets/image/te.jpg"></img>
             <p className="ph2">(+1) 923 2341 22</p>
-            <img className="a3a" src="/src/assets/image/gm.jpg"></img>
+            <img className="a3a" src="/assets/image/gm.jpg"></img>
             <p className="ph3">Contact@tanahairstudio.com</p>
             <p className="gg">@2020 TanahAir Studio. All rights reserved.</p>
           </div>
