@@ -19,6 +19,20 @@ margin: 0px;
     position: relative;
     left: 200px;
 }
+button.buttan1{
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: rgba(35, 121, 67, 1);
+    cursor: pointer;
+    transition: border-color 0.25s;
+    width: 192px;
+    height: 48px;
+    color: white;
+}
 button.over2{
     width:  198px;
     height:48px;
@@ -227,4 +241,15 @@ div.footer5{
     top: 1200px;
     position: relative;
     left: 104px;
+}
+@media screen and (max-width:389px) {
+    div.Home{
+        position: relative;
+        width:100%;
+    background-color: white;
+    }
+    .Navbar {
+        width: 389px;
+        display: inline-block;
+    }
 }

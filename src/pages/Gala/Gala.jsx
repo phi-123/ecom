@@ -1,4 +1,5 @@
 import "./home2.css";
+
 function Gala() {
   return (
     <div>
@@ -64,7 +65,9 @@ function Gala() {
               <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.89</p>
               <p className="name">Cavendish Banana</p>
-              <button type="reset">Add to Cart</button>
+              <button className="buttan1 " type="reset">
+                Add to Cart
+              </button>
             </div>
             <div className="card3 ok">
               <img src="/assets/image/Im.jpg"></img>
