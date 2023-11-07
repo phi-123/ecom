@@ -145,37 +145,37 @@ function Product() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.89</p>
               <p className="name">Apple Jumbo</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$1.29</p>
               <p className="name">Apple US</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.23</p>
               <p className="name">Apple Jumbo</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.49</p>
               <p className="name">Apple US</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$0.89</p>
               <p className="name">Apple Jumbo</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$5.75</p>
               <p className="name">Apple US</p>
               <button type="reset">Add to Cart</button>
@@ -192,37 +192,37 @@ function Product() {
           </div>
           <div className="hg2">
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.89</p>
               <p className="name">Cavendish Banana</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$1.29</p>
               <p className="name">Slicing Tomatoes</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$4.23</p>
               <p className="name">Apple Jumbo</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$2.49</p>
               <p className="name">Cavendish Banana</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$0.89</p>
               <p className="name">Apple Jumbo</p>
               <button type="reset">Add to Cart</button>
             </div>
             <div className="card3 ok">
-              <img src="/assets/image/im.jpg"></img>
+              <img src="/assets/image/Im.jpg"></img>
               <p className="Do-la">$5.75</p>
               <p className="name">Slicing Tomatoes</p>
               <button type="reset">Add to Cart</button>

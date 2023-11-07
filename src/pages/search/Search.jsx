@@ -116,25 +116,25 @@ export default function Search() {
           <div className="Card">
             <div className="listcard1">
               <div className="card1 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.89</p>
                 <p className="name">Cavendish Banana</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card2 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$1.29</p>
                 <p className="name">Slicing Tomatoes</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card3 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.23</p>
                 <p className="name">Jemima Waffle</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card4 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$2.49</p>
                 <p className="name">Chiltos Crunch Chocolate Chips</p>
                 <button type="reset">Add to Cart</button>
@@ -143,25 +143,25 @@ export default function Search() {
 
             <div className="listcard2">
               <div className="card1 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.89</p>
                 <p className="name">Cavendish Banana</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card2 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$1.29</p>
                 <p className="name">Slicing Tomatoes</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card3 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.23</p>
                 <p className="name">Jemima Waffle</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card4 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$2.49</p>
                 <p className="name">Chiltos Crunch Chocolate Chips</p>
                 <button type="reset">Add to Cart</button>
@@ -169,25 +169,25 @@ export default function Search() {
             </div>
             <div className="listcard3">
               <div className="card1 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.89</p>
                 <p className="name">Cavendish Banana</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card2 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$1.29</p>
                 <p className="name">Slicing Tomatoes</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card3 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.23</p>
                 <p className="name">Jemima Waffle</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card4 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$2.49</p>
                 <p className="name">Chiltos Crunch Chocolate Chips</p>
                 <button type="reset">Add to Cart</button>
@@ -195,25 +195,25 @@ export default function Search() {
             </div>
             <div className="listcard4">
               <div className="card1 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.89</p>
                 <p className="name">Cavendish Banana</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card2 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$1.29</p>
                 <p className="name">Slicing Tomatoes</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card3 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$4.23</p>
                 <p className="name">Jemima Waffle</p>
                 <button type="reset">Add to Cart</button>
               </div>
               <div className="card4 ok">
-                <img src="/assets/image/im.jpg"></img>
+                <img src="/assets/image/Im.jpg"></img>
                 <p className="Do-la">$2.49</p>
                 <p className="name">Chiltos Crunch Chocolate Chips</p>
                 <button type="reset">Add to Cart</button>
